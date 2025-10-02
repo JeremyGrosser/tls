@@ -1,6 +1,6 @@
 name = "tls"
 description = ""
-version = "0.1.0-dev"
+version = "0.1.2"
 
 authors = ["Jeremy Grosser"]
 maintainers = ["Jeremy Grosser <jeremy@synack.me>"]
