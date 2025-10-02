@@ -1,5 +1,6 @@
 with "config/tls_config.gpr";
 with "libtls.gpr";
+with "libssl.gpr";
 
 project Tls is
 
